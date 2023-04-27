@@ -3,11 +3,11 @@
 
 
 variable "access"{
-    key1="AKIA2LF6FNSWRETILTHG"
+    key1="AKIATI7DMPUNQJTDOM6P"
   
 }
 variable "secret" {
-    key2="C8eeUDHiqvGsItsbS68M6hCpgGKz5heRZUFVi3gb"
+    key2="ZDcLyHRZWKB7oAfWjngjbwm6NdxzpcM6XCgl8rL1"
   
 }
 variable "profile" {
