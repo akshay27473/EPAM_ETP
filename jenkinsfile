@@ -10,7 +10,7 @@ pipeline {
 
     stage('Checkout') {
         steps {
-            git branch: 'master', credentialsId: 'Github', url: 'git@github.com:akshay27473/EPAM_ETP.git'
+            git branch: 'main', credentialsId: 'github-jenkins', url: 'git@github.com:akshay27473/EPAM_ETP.git'
         }
     }
 
